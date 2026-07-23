@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/LeonMdS/http-server-practice/internal/database"
+	"github.com/LeonMdS/chirpy-server/internal/database"
 	"github.com/google/uuid"
 )
 

@@ -3,7 +3,7 @@ package api
 import (
 	"sync/atomic"
 
-	"github.com/LeonMdS/http-server-practice/internal/database"
+	"github.com/LeonMdS/chirpy-server/internal/database"
 )
 
 type APIConfig struct {

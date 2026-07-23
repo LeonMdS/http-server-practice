@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/LeonMdS/http-server-practice/internal/api"
-	"github.com/LeonMdS/http-server-practice/internal/database"
+	"github.com/LeonMdS/chirpy-server/internal/api"
+	"github.com/LeonMdS/chirpy-server/internal/database"
 	"github.com/joho/godotenv"
 	_ "github.com/lib/pq"
 )

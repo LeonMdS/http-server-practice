@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/LeonMdS/http-server-practice/internal/auth"
+	"github.com/LeonMdS/chirpy-server/internal/auth"
 	"github.com/google/uuid"
 )
 

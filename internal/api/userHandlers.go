@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/LeonMdS/http-server-practice/internal/auth"
-	"github.com/LeonMdS/http-server-practice/internal/database"
+	"github.com/LeonMdS/chirpy-server/internal/auth"
+	"github.com/LeonMdS/chirpy-server/internal/database"
 )
 
 func (cfg *APIConfig) createUserHandler(w http.ResponseWriter, r *http.Request) {
